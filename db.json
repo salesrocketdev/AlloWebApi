@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bruce Wayne",
+      "cpf": "123.456.789-10",
+      "tel": "045 95874-0055",
+      "email": "brucewayne@gotham.bat"
+    },
+    {
+      "id": 2,
+      "name": "Thomas Wayne",
+      "cpf": "123.456.789-10",
+      "tel": "045 95874-0055",
+      "email": "thomaswayne@wayne.com"
+    },
+    {
+      "id": 7,
+      "name": "Clark",
+      "cpf": "123.456.789-10",
+      "tel": "045 95874-0055",
+      "email": "clarkkent@krypton.com"
+    },
+    {
+      "id": 8,
+      "name": "Clark Kent",
+      "cpf": "123.456.789-10",
+      "tel": "045 95874-0055",
+      "email": "clarkkent@krypton.com"
+    },
+    {
+      "id": 9,
+      "name": "Clark Kent",
+      "cpf": "123.456.789-10",
+      "tel": "045 95874-0055",
+      "email": "clarkkent@krypton.com"
+    },
+    {
+      "id": 10,
+      "name": "Clark Kent",
+      "cpf": "123.456.789-10",
+      "tel": "045 95874-0055",
+      "email": "clarkkent@krypton.com"
+    },
+    {
+      "name": "Bruce Wayne",
+      "cpf": "123.456.789-11",
+      "tel": "021 97985-8844",
+      "email": "brucewayne@gotham.bat",
+      "id": 12
+    },
+    {
+      "name": "Barry Allen",
+      "cpf": "123.456.789-12",
+      "tel": "",
+      "email": "barryallen@flash.run",
+      "id": 14
+    }
+  ]
+}
